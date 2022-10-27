@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/user-table-challenge-react/static/css/main.e5f796e0.css",
+    "main.js": "/user-table-challenge-react/static/js/main.883d188c.js",
+    "static/js/787.a3e42749.chunk.js": "/user-table-challenge-react/static/js/787.a3e42749.chunk.js",
+    "index.html": "/user-table-challenge-react/index.html",
+    "main.e5f796e0.css.map": "/user-table-challenge-react/static/css/main.e5f796e0.css.map",
+    "main.883d188c.js.map": "/user-table-challenge-react/static/js/main.883d188c.js.map",
+    "787.a3e42749.chunk.js.map": "/user-table-challenge-react/static/js/787.a3e42749.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5f796e0.css",
+    "static/js/main.883d188c.js"
+  ]
+}
