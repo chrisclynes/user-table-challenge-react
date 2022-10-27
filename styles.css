@@ -28,7 +28,6 @@ html {
 }
 
 .main__user_table {
-    border: 1px solid var(--border-color);
     width: var(--content-width);
     border-collapse: collapse;
     text-align: left;
