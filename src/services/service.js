@@ -1,3 +1,4 @@
+//shared api service for all user data
 export async function fetchData(resource) {
     const baseURL = 'https://jsonplaceholder.typicode.com/todos/1/';
     try{

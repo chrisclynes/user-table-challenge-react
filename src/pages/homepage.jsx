@@ -17,6 +17,7 @@ const Homepage = () => {
         fetchUserData();
     }, []);
 
+    //function for getting user posts
     const getUserPosts = async (id) => {
        const data = await fetchData(`posts?userId=${id}`);
 
