@@ -1,0 +1,28 @@
+.user_table-title {
+    margin: 1rem;
+    font-size: 2rem;
+}
+
+.main__user_table {
+    width: var(--content-width);
+    border-collapse: collapse;
+    text-align: left;
+}
+
+.user_table-headers {
+    background-color: rgba(53, 191, 255, 0.582);
+}
+
+.main__user_table th, .main__user_table td {
+    border: 1px solid var(--border-color);
+    padding: 0.35rem;
+}
+
+.table-user {
+    color: rgb(3, 94, 231);
+    cursor: pointer;
+}
+
+.table-user:hover {
+    text-decoration: underline;
+}

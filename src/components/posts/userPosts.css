@@ -1,0 +1,24 @@
+.posts_title {
+    font-weight: 300;
+    margin: 1rem;
+    font-size: 2rem;
+}
+
+#posts {
+    padding: 1rem;
+    text-align: left;
+    overflow-y: auto;
+    border: 1px solid var(--border-color);
+    width: var(--content-width);
+    height: 400px; 
+}
+
+.post_title {
+    font-size: 1rem;
+    color: red;
+}
+
+.post_text {
+    font-style: italic;
+    margin: 0 0 2rem 0;
+}

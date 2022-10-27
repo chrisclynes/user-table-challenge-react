@@ -1,0 +1,14 @@
+/* universal box-sizing */
+html {
+    box-sizing: border-box;
+}
+
+*, *::before, *:after {
+    box-sizing: inherit;
+}
+/* css variables */
+:root {
+    --border-color:  rgb(61, 61, 61);
+    --content-width: 900px;
+}
+
